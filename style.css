@@ -1,0 +1,45 @@
+.pinkcolor{
+    color: #eb9ca9;
+}
+#greycol{
+    color: rgb(190, 190, 190);
+}
+.redcolor{
+    color: rgb(255, 0, 0);
+}
+.greencolor{
+    color: rgb(0, 255, 0);
+}
+.yellow{
+    color: rgb(255, 255, 0);
+}
+.table-montag{
+    background: #c90000d3;
+}
+.table-dienstag{
+    background: #2eff17;
+}
+.table-mittwoch{
+    background: #6143d7;
+}
+.table-donnerstag{
+    background: #ff797967;
+}
+.table-freitag{
+    background: #cc27ab;
+}
+.caption-montag{
+    background: #c90000d3;
+}
+.caption-dienstag{
+    background: #2eff17;
+}
+.caption-mittwoch{
+    background: #6143d7;
+}
+.caption-donnerstag{
+    background: #ff797967;
+}
+.caption-freitag{
+    background: #cc27ab;
+}
